@@ -1,0 +1,115 @@
+attachPopout-36hjtN{
+    animation: 200ms fadeAnim;
+    display: flex;
+    min-width: unset;
+    padding: 0;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    -webkit-animation: 200ms fadeAnim;
+}
+
+.attachPopoutRow-3iqqu1, .statusItem-2uzPIV{
+    border-bottom: 2px solid transparent;
+    transition: all 150ms;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    -webkit-transition: all 150ms;
+    -moz-transition: all 150ms;
+    -ms-transition: all 150ms;
+    -o-transition: all 150ms;
+}
+
+.attachPopoutRow-3iqqu1:hover, .statusItem-2uzPIV:hover{
+    border-bottom-color: var(--main-color);
+}
+
+.menu-Sp6bN1{
+    display: flex;
+    width: fit-content;
+}
+
+.label-1Y-LW5{
+    display: none;
+}
+
+.iconContainer-2ZxvJk, .itemBase-1Qj4z6, .itemBase-1Qj4z6 .checkbox-1wLOv4{
+    margin: 0 auto;
+}
+
+.premiumGuildIcon-BhwtRn{
+    width: 100%;
+    height: 100%;
+}
+
+.separator-2zcjq8{
+    display: none;
+}
+
+.statusIconText-3b4TkH .mask-1qbNWk{
+    margin: 0 auto;
+    height: 20px;
+    width: 20px;
+}
+
+.menu-Sp6bN1{
+    padding: 0;
+}
+
+.statusIconText-3b4TkH .mask-1qbNWk + div, .statusItem-2uzPIV .helper-2c73HK{
+    display: none;
+}
+
+.layer-v9HyYc[style^="left: -"]{
+    left: 10px !important;
+}
+
+.itemBase-1Qj4z6{
+    min-height: 48px;
+    width: 48px;
+}
+
+.statusItem-2uzPIV:hover:nth-child(1){
+    border-bottom-color: rgb(67, 181, 129);
+}
+
+.statusItem-2uzPIV:hover:nth-child(3){
+    border-bottom-color: rgb(250, 166, 26);
+}
+
+.statusItem-2uzPIV:hover:nth-child(4){
+    border-bottom-color: rgb(240, 71, 71);
+}
+
+.statusItem-2uzPIV:hover:nth-child(5){
+    border-bottom-color: rgb(116, 127, 141);
+}
+
+.statusItem-2uzPIV{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.itemBase-1Qj4z6 .clearStatus-2hmUqc, .itemBase-1Qj4z6 .customStatus-1KPfFb .customStatusText-Kh6K1M{
+    display: none;
+}
+
+.customStatus-1KPfFb{
+    margin: 0 auto;
+}
+
+.customStatusEmoji-2NpCsS{
+    height: 24px;
+    width: 24px;
+    margin-left: 5px;
+}
+
+.customStatusContentIcon-2sionu{
+    font-size: 0;
+}
