@@ -100,7 +100,12 @@
     justify-content: center;
 }
 
-.itemBase-1Qj4z6 .clearStatus-2hmUqc, .itemBase-1Qj4z6 .customStatus-1KPfFb .customStatusText-Kh6K1M{
+.itemBase-1Qj4z6 .customStatus-1KPfFb .customStatusText-Kh6K1M{
+    display: block;
+    width: 3.2ch;
+}
+
+.itemBase-1Qj4z6 .customStatus-1KPfFb img + .customStatusText-Kh6K1M{
     display: none;
 }
 
