@@ -1,4 +1,4 @@
-**ATTENTION: No longer maintent; check https://github.com/Custom-avatar-hints/hints**
+
 <h1 align="center">OnlyIconsOnMenus</h1>
 <p align="center">Removes the text menus, showing only the icons</p>
 <p align="center"><img src="https://cdn.discordapp.com/attachments/542864483543023646/658174072911298580/unknown.png" /></p>
