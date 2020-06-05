@@ -1,10 +1,10 @@
-.menu-3sdvDG .scroller-3BxosC, .menu-3sdvDG [role="group"]{
+#status-picker.menu-3sdvDG .scroller-3BxosC, #guild-header-popout.menu-3sdvDG .scroller-3BxosC, #guild-header-popout.menu-3sdvDG [role="group"]{
     display: flex;
     padding: 0;
     overflow-y: unset;
 }
 
-.status-1fhblQ, .description-2L932D, .separator-2I32lJ, .label-22pbtT{
+.status-1fhblQ, .description-2L932D, .separator-2I32lJ, #guild-header-popout .label-22pbtT{
     display: none;
 }
 
@@ -26,15 +26,12 @@
 
 .styleFixed-sX-yHV{
     width: unset;
+    border-radius: 30px;
+    overflow: hidden;
 }
 
 .customEmoji-2_2FwB{
     margin-right: 4px;
-}
-
-.styleFixed-sX-yHV, .styleFlexible-wGDiIL{
-    border-radius: 30px;
-    overflow: hidden;
 }
 
 .item-1tOPte, .iconContainer-2-XQPY{
