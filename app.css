@@ -1,128 +1,43 @@
-.attachPopoutRowText-2R5RC2{
-    display: none;
-}
-
-.attachPopout-36hjtN{
-    animation: 200ms fadeAnim;
+.menu-3sdvDG .scroller-3BxosC{
     display: flex;
-    min-width: unset;
     padding: 0;
-    border-radius: 0;
-    -webkit-border-radius: 0;
-    -moz-border-radius: 0;
-    -ms-border-radius: 0;
-    -o-border-radius: 0;
-    -webkit-animation: 200ms fadeAnim;
+    overflow-y: unset;
 }
 
-.attachPopoutRow-3iqqu1, .statusItem-2uzPIV{
-    border-bottom: 2px solid transparent;
-    transition: all 150ms;
-    border-radius: 0;
-    -webkit-border-radius: 0;
-    -moz-border-radius: 0;
-    -ms-border-radius: 0;
-    -o-border-radius: 0;
-    -webkit-transition: all 150ms;
-    -moz-transition: all 150ms;
-    -ms-transition: all 150ms;
-    -o-transition: all 150ms;
+.status-1fhblQ, .description-2L932D, .separator-2I32lJ{
+    display: none;
 }
 
-.attachPopoutRow-3iqqu1:hover, .statusItem-2uzPIV:hover{
-    border-bottom-color: var(--main-color);
-}
-
-.menu-Sp6bN1{
+.statusItem-33LqPf{
     display: flex;
-    width: fit-content;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
 }
 
-.label-1Y-LW5{
-    display: none;
-}
-
-.iconContainer-2ZxvJk, .itemBase-1Qj4z6, .itemBase-1Qj4z6 .checkbox-1wLOv4{
-    margin: 0 auto;
-}
-
-.premiumGuildIcon-BhwtRn{
-    width: 100%;
-    height: 100%;
-}
-
-.separator-2zcjq8{
-    display: none;
-}
-
-.statusIconText-3b4TkH .mask-1qbNWk{
-    margin: 0 auto;
+.icon-1IxfJ2{
     height: 20px;
     width: 20px;
 }
 
-.menu-Sp6bN1{
-    padding: 0;
+.item-1tOPte{
+    padding: 10px;
 }
 
-.statusIconText-3b4TkH .mask-1qbNWk + div, .statusItem-2uzPIV .helper-2c73HK{
-    display: none;
+.styleFixed-sX-yHV{
+    width: unset;
 }
 
-.layer-v9HyYc[style^="left: -"]{
-    left: 10px !important;
+.customEmoji-2_2FwB{
+    margin-right: 4px;
 }
 
-.itemBase-1Qj4z6{
-    min-height: 48px;
-    width: 48px;
+.styleFixed-sX-yHV, .styleFlexible-wGDiIL{
+    border-radius: 30px;
+    overflow: hidden;
 }
 
-.statusItem-2uzPIV:hover:nth-child(1){
-    border-bottom-color: rgb(67, 181, 129);
-}
-
-.statusItem-2uzPIV:hover:nth-child(3){
-    border-bottom-color: rgb(250, 166, 26);
-}
-
-.statusItem-2uzPIV:hover:nth-child(4){
-    border-bottom-color: rgb(240, 71, 71);
-}
-
-.statusItem-2uzPIV:hover:nth-child(5){
-    border-bottom-color: rgb(116, 127, 141);
-}
-
-.statusItem-2uzPIV{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.itemBase-1Qj4z6 .clearStatus-2hmUqc{
-    display: none;
-}
-
-.itemBase-1Qj4z6 .customStatus-1KPfFb .customStatusText-Kh6K1M{
-    display: block;
-    width: 3.2ch;
-}
-
-.itemBase-1Qj4z6 .customStatus-1KPfFb img + .customStatusText-Kh6K1M{
-    display: none;
-}
-
-.customStatus-1KPfFb{
-    margin: 0 auto;
-}
-
-.customStatusEmoji-2NpCsS{
-    height: 24px;
-    width: 24px;
-    margin-left: 5px;
-}
-
-.customStatusContentIcon-2sionu{
-    font-size: 0;
+.item-1tOPte{
+    margin:0;
+    border-radius: 0;
 }
