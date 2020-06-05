@@ -1,10 +1,10 @@
-.menu-3sdvDG .scroller-3BxosC{
+.menu-3sdvDG .scroller-3BxosC, .menu-3sdvDG [role="group"]{
     display: flex;
     padding: 0;
     overflow-y: unset;
 }
 
-.status-1fhblQ, .description-2L932D, .separator-2I32lJ{
+.status-1fhblQ, .description-2L932D, .separator-2I32lJ, .label-22pbtT{
     display: none;
 }
 
@@ -15,7 +15,7 @@
     padding: 0;
 }
 
-.icon-1IxfJ2{
+.icon-1IxfJ2, .icon-LYJorE, .iconContainer-2-XQPY{
     height: 20px;
     width: 20px;
 }
@@ -37,7 +37,7 @@
     overflow: hidden;
 }
 
-.item-1tOPte{
+.item-1tOPte, .iconContainer-2-XQPY{
     margin:0;
     border-radius: 0;
 }
